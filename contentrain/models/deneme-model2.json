@@ -1,0 +1,68 @@
+[
+  {
+    "componentId": "date",
+    "fieldId": "createdAt",
+    "modelId": "deneme-model2",
+    "name": "createdAt",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "projectId": "drh1brmeit"
+  },
+  {
+    "componentId": "date",
+    "fieldId": "updatedAt",
+    "modelId": "deneme-model2",
+    "name": "updatedAt",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "projectId": "drh1brmeit"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "ID",
+    "modelId": "deneme-model2",
+    "name": "ID",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "drh1brmeit"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "status",
+    "modelId": "deneme-model2",
+    "name": "status",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "drh1brmeit"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "title",
+    "modelId": "deneme-model2",
+    "name": "Title",
+    "options": {},
+    "validations": {},
+    "fieldType": "string",
+    "projectId": "drh1brmeit"
+  }
+]
