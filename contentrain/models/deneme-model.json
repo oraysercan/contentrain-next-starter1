@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "deneme-model"
+  },
+  {
+    "name": "Title",
+    "fieldId": "title",
+    "modelId": "deneme-model",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
