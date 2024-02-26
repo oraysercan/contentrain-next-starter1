@@ -126,13 +126,5 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
-  },
-  {
-    "name": "deneme model",
-    "modelId": "deneme-model",
-    "localization": true,
-    "type": "JSON",
-    "createdBy": "user",
-    "isServerless": false
   }
 ]
