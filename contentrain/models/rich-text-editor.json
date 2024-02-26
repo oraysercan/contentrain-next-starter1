@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "rich-text-editor"
+  },
+  {
+    "name": "Rich text",
+    "fieldId": "rich-text",
+    "modelId": "rich-text-editor",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
