@@ -151,5 +151,13 @@
     "type": "JSON",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "Deneme model1",
+    "modelId": "deneme-model1",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "saved",
+    "isServerless": false
   }
 ]
